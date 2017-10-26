@@ -1,0 +1,5 @@
+#make a script from a to z
+import string
+
+for letter in string.ascii_lowercase:
+    print(letter)
